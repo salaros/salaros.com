@@ -70,12 +70,13 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: salaros_
-    url: https://twitter.com/salaros_
-    desc: Follow me on Twitter
-    share: true
+  - name: GitHub
+    icon: github
+    username: salaros
+    url: https://github.com/salaros
+    desc: Fork me on GitHub
+    share: false
+    footer: true
 
   - name: Facebook
     icon: facebook
@@ -84,19 +85,13 @@ social:
     desc: Friend me on Facebook
     share: true
 
-  - name: GitHub
-    icon: github
-    username: salaros
-    url: https://github.com/salaros
-    desc: Fork me on GitHub
-    share: false
-
   - name: LinkedIn
-    icon: linkedin
+    icon: linkedin    
     username: Yaroslav Zhmayev
     url: https://www.linkedin.com/in/salaros
     desc: Connect with me on LinkedIn
     share: true
+    footer: true
 
   - name: Google+
     icon: google-plus
@@ -180,6 +175,35 @@ social:
     username:
     url:
     desc: Share to Hacker News
+    share: false
+
+  - name: StackExchange
+    icon: stack-exchange 
+    username: salaros
+    url: https://stackexchange.com/users/409477/salaros
+    desc: Checkout my StackExchange profile
+    share: true
+
+  - name: StackOverflow
+    icon: stack-overflow 
+    username: salaros
+    url: https://stackoverflow.com/users/780752/salaros
+    desc: Checkout my StackExchange profile
+    share: true
+
+  - name: Twitter
+    icon: twitter
+    username: salaros_
+    url: 
+    desc: Follow me on Twitter
+    share: true
+
+  - name: Skype
+    icon: skype
+    username: salarosskype
+    url: skype:salarosskype?chat
+    desc: Contact me on Skype
+    target: _self
     share: false
 
 # Social sharing protocols
