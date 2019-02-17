@@ -27,11 +27,21 @@ ul.default {
 	@extend %default-ul;
 }
 
+figure.highlight {
+	margin: auto;
+}
+
 code {
 	background-color: #eee;
 	display: inline-block;
 	border-radius: 3px;
 	padding: 0 3px;
+
+	&.language-none {
+		display: block;
+		padding: 1em 2em;
+		white-space: normal;
+	}
 }
 
 pre code.hljs {
