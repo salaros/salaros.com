@@ -6,7 +6,7 @@ permalink: /about-me/
 
 <img src="{{ site.baseurl }}/assets/avatar.jpg" title="Salaros' picture" class="profile">
 
-{% highlight none %}
+{% highlight warning %}
     The text below in self-important "About me" page might contain way too many “I”, "me" or “my”.
     I apologize for abusing these terms :)
 {% endhighlight %}
