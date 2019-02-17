@@ -44,7 +44,7 @@ jekyll-archives:
 disqus_shortname: salaros
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-71219080-6"
 
 # Category descriptions (for archive pages)
 descriptions:
