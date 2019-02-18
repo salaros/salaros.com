@@ -265,7 +265,7 @@ pre code.hljs {
 	img {
 		display: block;
 		margin: auto;
-		width: 90%;
+		width: 100%;
 	}
 	/*
 	*	Posts
@@ -284,6 +284,10 @@ pre code.hljs {
 		}
 		.post-content {
 			padding: 1em 0;
+			p {
+				text-align: justify;
+				text-align-last: left;
+			}
 		}
 		.tags {
 			font-size: 0.9em;
