@@ -4,7 +4,7 @@ title: About me
 permalink: /about-me/
 ---
 
-<img src="{{ site.baseurl }}/assets/avatar.jpg" title="Salaros' picture" class="profile">
+![Salaros' picture]({{ site.baseurl }}/assets/avatar.jpg "Salaros' picture"){:.profile}
 
 {% highlight warning %}
     The text below in self-important "About me" page might contain way too many “I”, "me" or “my”.
