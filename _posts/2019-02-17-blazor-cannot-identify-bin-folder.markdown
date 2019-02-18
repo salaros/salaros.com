@@ -22,7 +22,7 @@ As you can see it's [a known issue](https://github.com/aspnet/Blazor/issues/261)
 Obviously you could manually remove `Debug` or `Release` folder depending on your current configuration or write a small tools which [does the same thing](https://youtu.be/UzEW0X8a010?t=1000) for you.
 
 However you could automate the removal of the opposite / redundant folder by using good ol' MSBuild target.
-Just drop the following [Directory.Build.targets](/assets/posts/blazor-cannot-identify-bin-folder/Directory.Build.targetsje) 
+Just drop the following [Directory.Build.targets](/assets/posts/blazor-cannot-identify-bin-folder/Directory.Build.targets) 
 file into your Blazor app's solution root folder and you will never to take care about this error again.
 
 <a href="/assets/posts/blazor-cannot-identify-bin-folder/solution.png" data-lightbox="blazor-large" data-title="Removing Release folder">
