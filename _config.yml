@@ -32,13 +32,14 @@ highlightjs_theme: "monokai-sublime"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
+  enabled: all
+  layout: archive
   permalinks:
-    category: '/category/:name/'
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
     tag: '/tag/:name/'
+    category: '/category/:name/'
 
 # Disqus comments
 disqus_shortname: salaros
