@@ -62,11 +62,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  ffi (>= 1.9.24)
-  jekyll (>= 3.6.3)
-  jekyll-archives
-  jekyll-paginate
-  jekyll-sitemap
+  ffi (>= 1.10.0)
+  jekyll (>= 3.8.5)
+  jekyll-archives (>= 2.1.0)
+  jekyll-paginate (>= 1.1.0)
+  jekyll-sitemap (>= 1.2.0)
 
 BUNDLED WITH
    1.16.1

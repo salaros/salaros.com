@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-gem "jekyll", ">= 3.6.3"
-gem "ffi", ">= 1.9.24"
-gem 'jekyll-archives'
-gem 'jekyll-sitemap'
-gem 'jekyll-paginate'
+gem 'jekyll', '>= 3.8.5'
+gem 'ffi', '>= 1.10.0'
+gem 'jekyll-archives', '>= 2.1.0'
+gem 'jekyll-sitemap', '>= 1.2.0'
+gem 'jekyll-paginate', '>= 1.1.0'
