@@ -5,7 +5,7 @@ date:   2019-02-17 08:43:59
 author: Salaros
 categories: dotnet
 tags:	blazor dotnet .net-core bug visual-studio
-thumbnail: "/assets/posts/blazorCannotLocateBinFolder.png"
+thumbnail: "/assets/posts/blazor-cannot-identify-bin-folder/error-w720.png"
 ---
 
 As .NET developer I am pretty excited about Blazor and I am already using it in one of out prototypes.
