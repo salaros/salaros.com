@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        ".sass-cache": true,
+        "_site": true,
+    }
+}
