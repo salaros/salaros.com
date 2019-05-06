@@ -18,6 +18,7 @@ Among other things this release includes:
 * **Revit 2020** support
 * the ability to **build & debug** one add-in at time
 * binded new events
+* simplified Revit SDK NuGet dependencies
 * improved and simplified Ribbon management:
   * tab and panel management
   * the ability to use custom availability classes
