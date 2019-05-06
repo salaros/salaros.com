@@ -23,7 +23,7 @@ Among other things this release includes:
   * tab and panel management
   * the ability to use custom availability classes
 
-I would 💖 **LOVE** 😍 to have some feedback from the community. Please use [project's issues](https://github.com/Equipple/vs-templates-revit-addin/issues) or by using [my contact details](/about-me).
+I would 💖 **LOVE** 😍 to have some feedback from the community. Please use [project's issues](https://github.com/Equipple/vs-templates-revit-addin/issues) or get in touch with me by using [my contact details](/about-me).
 
 
 #### ⬇⬇⬇ Template installation ⬇⬇⬇
